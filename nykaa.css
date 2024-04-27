@@ -1,0 +1,211 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.f-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(252, 155, 171);
+    padding: 10px;
+}
+
+.feature{
+    display: flex;
+}
+
+.feature{
+    display: flex;
+    margin-inline: 22px;
+}
+
+.feature{
+    margin-inline: 8px;
+}
+
+.app{
+    display: flex;
+}
+
+.sec-nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 5px;
+    margin: 5px;
+    position: relative;
+}
+
+
+.sec-nav ul li{
+    list-style-type: none;
+}
+
+.sec-nav ul li img{
+    width: 80px;
+}
+
+.sec-nav ul li a{
+    margin-inline: 22px;
+}
+
+.sec-nav .inputs{
+    display: flex;
+}
+
+.sec-nav .inputs button{
+    margin-inline: 20px;
+}
+
+.sec-nav .inputs input{
+    width: 220px;
+    height: 25px;
+    background-color: rgb(205, 197, 197);
+    font-size: 16px; 
+}
+
+.sec-nav .inputs button{
+    width: 60px;
+    height: 25px;
+    background-color: rgb(251, 106, 130);
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.items{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+.items ul li{
+    list-style-type: none;
+}
+
+.items ul li a{
+    margin-inline: 16.5px;
+    text-align: center;
+}
+
+.items ul li button{
+    width: 80px;
+    height: 35px;
+    background-color: rgb(251, 106, 130);
+    color: white;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.pink img{
+    height: 400px;
+    width: 1200px;
+}
+
+.pink h2{
+    text-align: center;
+    padding: 7px;
+}
+
+.brands h2{
+    text-align: center;
+}
+
+.sunbrands{
+    height: 200px;
+    width: 800px;
+    display:flex ;
+}
+
+.expbrands img{
+    height: 200px;
+    width: 160px;
+}
+
+
+.card1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    height: 400px;
+    width: 1200px;
+}
+
+.card2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    height: 300px;
+    width: 1300px;
+}
+
+.focus{
+    text-align: left;
+}
+
+.card3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    height: 400px;
+    width: 1200px;
+}
+
+.brand h2{
+    text-align: center;
+    padding: 22px;
+}
+
+.topbrd{
+    display: flex;
+}
+
+.topbrd img{
+    margin-inline: 22px;
+    width: 44px;
+}
+
+.saving{
+    height: 100px;
+    width: 100px;
+}
+
+.radar{
+    text-align: left;
+}
+
+.bestseller img{
+    justify-content: center;
+    justify-content: space-around;
+    height: 250px;
+    width: 190px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgba(154, 148, 148, 0.626);
+    height: 300px;
+    list-style-type: none;
+    flex-direction: row;
+}
+
+.footer ul li {
+    list-style-type: none;
+}
+
+.footer ul li a{
+    font-weight: 600px;
+    font-size: 14px;
+}
+
+.footer  ul li h2{
+    text-align: left;
+    font-size: 18px;
+}
